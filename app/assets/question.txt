@@ -1,0 +1,25 @@
+Technology,In which decade was the American Institute of Electrical Engineers (AIEE) founded?,Technology,Technology,Technology,Technology,Technology,1850s
+Technology,What is part of a database that holds only one type of information?,Technology,Technology,Technology,Technology,Technology,Report
+Technology,'OS' computer abbreviation usually means?,Technology,Technology,Technology,Technology,Technology,Order of Significance
+Technology,In which decade with the first transatlantic radio broadcast occur?,Technology,Technology,Technology,Technology,Technology,1850s
+Technology,'.MOV' extension refers usually to what kind of file?,Technology,Technology,Technology,Technology,Technology,Image file
+Technology,In which decade was the SPICE simulator introduced?,Technology,Technology,Technology,Technology,Technology,1950s
+Technology,Most modern TV's draw power even if turned off. The circuit the power is used in does what function?,Technology,Technology,Technology,Technology,Technology,Sound
+Technology,Which is a type of Electrically-Erasable Programmable Read-Only Memory?,Technology,Technology,Technology,Technology,Technology,Flash
+Technology,The purpose of choke in tube light is ?,Technology,Technology,Technology,Technology,Technology,To decrease the current
+Technology,'.MPG' extension refers usually to what kind of file?,Technology,Technology,Technology,Technology,Technology,WordPerfect Document file
+Technology,Who is largely responsible for breaking the German Enigma codes,Technology,Technology,Technology,Technology,Technology, created a test that provided a foundation for artificial intelligence?
+Technology,Who developed Yahoo?,Technology,Technology,Technology,Technology,Technology,Dennis Ritchie & Ken Thompson
+Technology,Made from a variety of materials,Technology,Technology,Technology,Technology,Technology, such as carbon
+Technology,The most common format for a home video recorder is VHS. VHS stands for...?,Technology,Technology,Technology,Technology,Technology,Video Home System
+Technology,What does VVVF stand for?,Technology,Technology,Technology,Technology,Technology,Variant Voltage Vile Frequency
+Technology,What frequency range is the High Frequency band?,Technology,Technology,Technology,Technology,Technology,100 kHz
+Technology,The first step to getting output from a laser is to excite an active medium. What is this process called?,Technology,Technology,Technology,Technology,Technology,Pumping
+Technology,What is the relationship between resistivity r and conductivity s?,Technology,Technology,Technology,Technology,Technology,R = s2
+Technology,Which motor is NOT suitable for use as a DC machine?,Technology,Technology,Technology,Technology,Technology,Permanent magnet motor
+Technology,A given signal's second harmonic is twice the given signal's __________ frequency...?,Technology,Technology,Technology,Technology,Technology,Fourier
+Technology,In which year was MIDI(Musical Instrument Digital Interface) introduced?,Technology,Technology,Technology,Technology,Technology,1987
+Technology,What does the term PLC stand for?,Technology,Technology,Technology,Technology,Technology,Programmable Lift Computer
+Technology,When measuring the characteristics of a small-signal amplifier,Technology,Technology,Technology,Technology,Technology, say for a radio receiver. one might be concerned with its "Noise..."?
+Technology,'DB' computer abbreviation usually means ?,Technology,Technology,Technology,Technology,Technology,Database
+Technology,'.INI' extension refers usually to what kind of file?,Technology,Technology,Technology,Technology,Technology,Image file

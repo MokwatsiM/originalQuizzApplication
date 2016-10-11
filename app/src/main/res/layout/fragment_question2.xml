@@ -1,0 +1,70 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Question2Fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/text_view_Question"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/text_view_Question">
+
+    </RadioGroup>
+
+    <RadioButton
+        android:id="@+id/rdoOptionA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/radioGroup"
+        android:layout_marginTop="60dp"
+        android:textSize="30sp"
+        android:checked="true"/>
+
+    <RadioButton
+        android:id="@+id/rdoOptionB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rdoOptionA"
+        android:layout_marginTop="38dp"
+        android:layout_toEndOf="@+id/radioGroup"
+        android:layout_toRightOf="@+id/radioGroup"
+        android:textSize="30sp" />
+
+    <RadioButton
+        android:id="@+id/rdoOptionC"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/rdoOptionA"
+        android:textSize="30sp" />
+
+    <RadioButton
+        android:id="@+id/rdoOptionD"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/rdoOptionC"
+        android:layout_alignStart="@+id/rdoOptionC"
+        android:layout_alignTop="@+id/rdoOptionB"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/btnSubmitAnswer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toEndOf="@+id/radioGroup"
+        android:layout_toRightOf="@+id/radioGroup"
+        android:text="Submit Answer" />
+
+
+</RelativeLayout>

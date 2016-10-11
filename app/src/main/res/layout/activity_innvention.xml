@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    tools:context="codetribe.com.quizzapp.StartQuizzActivity"
+    android:background="#A1887F">
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+
+        >
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/lightbulb"
+
+            />
+
+        <TextView
+            android:id="@+id/text_view_Question1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="20sp" />
+
+        <Spinner
+            android:id="@+id/spnQuestion1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FFAB00"
+
+            android:spinnerMode="dialog">
+
+        </Spinner>
+
+        <TextView
+            android:id="@+id/text_view_Question2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="20sp" />
+
+        <Spinner
+            android:id="@+id/spnQuestion2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FF1744"
+            android:spinnerMode="dialog">
+
+        </Spinner>
+
+        <TextView
+            android:id="@+id/text_view_Question3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="20sp" />
+
+        <Spinner
+            android:id="@+id/spnQuestion3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FFAB00"
+            android:spinnerMode="dialog">
+
+        </Spinner>
+
+        <TextView
+            android:id="@+id/text_view_Question4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:textStyle="bold"
+            android:textSize="20sp" />
+
+        <Spinner
+            android:id="@+id/spnQuestion4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FF1744"
+            android:spinnerMode="dialog">
+
+        </Spinner>
+
+        <TextView
+            android:id="@+id/text_view_Question5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="20sp" />
+
+        <Spinner
+            android:id="@+id/spnQuestion5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FFAB00"
+            android:spinnerMode="dialog">
+
+        </Spinner>
+
+
+        <Button
+            android:id="@+id/btnSubmitAnswer"
+            android:layout_width="342dp"
+            android:layout_height="wrap_content"
+
+            android:gravity="bottom"
+            android:text="Submit Answer" />
+
+
+    </LinearLayout>
+</ScrollView>

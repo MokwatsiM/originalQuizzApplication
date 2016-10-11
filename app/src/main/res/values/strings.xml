@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuizzApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nameHint">Name</string>
+    <string name="spinnrQuestion1">spnQuestion1</string>
+    <string name="spinnrQuestion2">spnQuestion2</string>
+    <string name="spinnrQuestion3">spnQuestion3</string>
+    <string name="spinnrQuestion4">spnQuestion4</string>
+    <string name="spinnrQuestion5">spnQuestion5</string>
+</resources>
